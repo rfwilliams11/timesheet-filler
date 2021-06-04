@@ -10,6 +10,8 @@ from getpass import getpass
 import time
 import sys
 
+print("Are you ready to fill out your timesheet?")
+
 username = input("Username: ")
 pwd = getpass()
 
